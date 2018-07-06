@@ -1,0 +1,1 @@
+Bayesian growth rate predictor is a probabilistic inference system that predicts the whether GDP growth rate would be high, moderate or low and gives the probability of them happening. There is a decision node. This is the decision that central bank and government of a country take in response to the changes in the economy. 
